@@ -72,6 +72,7 @@ it uses a discrimination approach in order to solve classification problems.**
 ## CM4107 Advanced Artificial Intelligence Project Compile-time Dependencies
 
 * [Python](http://www.python.org) (2.7 required)
+* [Anaconda](https://www.anaconda.com) (required)
 * [matplotlib](https://www.matplotlib.org/) (required)
 * [sklearn](https://scikit-learn.org) (required)
 * [pandas](https://pandas.pydata.org) (required)
