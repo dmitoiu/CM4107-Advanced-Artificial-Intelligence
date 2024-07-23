@@ -7,7 +7,7 @@ It supports libraries such as Sklearn and Keras.
 
 ## Coursework Part 1 Problem Definition
 
-**This paper contains an analysis of the accuracy and error rate produced by three standard machine learning algorithms
+**Abstract — This paper contains an analysis of the accuracy and error rate produced by three standard machine learning algorithms
 when considering classification as the method of problem-solving for a hand-writing dataset, these algorithms are 
 an Artificial Neural Network (ANN) model, a K-Nearest Neighbour (kNN) model and a combination or hybrid model of 
 the two mentioned models (ANN and kNN). The data that will be analysed in this comparative study it is a hand-writing 
